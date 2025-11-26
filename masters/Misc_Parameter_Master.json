@@ -1,0 +1,569 @@
+[
+  {
+    "CLASS": "CIVIL",
+    "CODE": "MISC_CIVIL_OH_001",
+    "DESC": "HARDWARE NAILS,FAVICOL, MISC ETC",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "CIVIL",
+    "CODE": "MISC_CIVIL_OH_002",
+    "DESC": "CARRIAGE OF MATERIALS",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "CIVIL",
+    "CODE": "MISC_CIVIL_OH_003",
+    "DESC": "LOADING AND UNLOADING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "CIVIL",
+    "CODE": "MISC_CIVIL_OH_004",
+    "DESC": "FACTORY / MACHINARY COST",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "CIVIL",
+    "CODE": "MISC_CIVIL_OH_005",
+    "DESC": "TOOLS & TACKLES",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "CIVIL",
+    "CODE": "MISC_CIVIL_OH_006",
+    "DESC": "ELECTRICITY AND WATER CHARGES",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "CIVIL",
+    "CODE": "MISC_CIVIL_OH_007",
+    "DESC": "LIFTING AND SHIFTING FROM GROUND LEVEL TO SITE LEVEL",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "CIVIL",
+    "CODE": "MISC_CIVIL_OH_008",
+    "DESC": "SCAFOLDING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "CIVIL",
+    "CODE": "MISC_CIVIL_OH_009",
+    "DESC": "HOUSEKEEPING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "Gypsum partitons & Panlling",
+    "CODE": "MISC_GYP_OH_001",
+    "DESC": "HARDWARE NAILS,FAVICOL, MISC ETC",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "Gypsum partitons & Panlling",
+    "CODE": "MISC_GYP_OH_002",
+    "DESC": "CARRIAGE OF MATERIALS",
+    "PERCENTAGE": "0.03",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "Gypsum partitons & Panlling",
+    "CODE": "MISC_GYP_OH_003",
+    "DESC": "LOADING AND UNLOADING",
+    "PERCENTAGE": "0.02",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "Gypsum partitons & Panlling",
+    "CODE": "MISC_GYP_OH_004",
+    "DESC": "FACTORY / MACHINARY COST",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "Gypsum partitons & Panlling",
+    "CODE": "MISC_GYP_OH_005",
+    "DESC": "TOOLS & TACKLES",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "Gypsum partitons & Panlling",
+    "CODE": "MISC_GYP_OH_006",
+    "DESC": "ELECTRICITY AND WATER CHARGES",
+    "PERCENTAGE": "0.005",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "Gypsum partitons & Panlling",
+    "CODE": "MISC_GYP_OH_007",
+    "DESC": "LIFTING AND SHIFTING FROM GROUND LEVEL TO SITE LEVEL",
+    "PERCENTAGE": "0.005",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "Gypsum partitons & Panlling",
+    "CODE": "MISC_GYP_OH_008",
+    "DESC": "SCAFOLDING",
+    "PERCENTAGE": "0.005",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "Gypsum partitons & Panlling",
+    "CODE": "MISC_GYP_OH_009",
+    "DESC": "HOUSEKEEPING",
+    "PERCENTAGE": "0.005",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "MILL WORK",
+    "CODE": "MISC_MW_OH_001",
+    "DESC": "HARDWARE NAILS,FAVICOL, MISC ETC",
+    "PERCENTAGE": "0.03",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "MILL WORK",
+    "CODE": "MISC_MW_OH_002",
+    "DESC": "CARRIAGE OF MATERIALS",
+    "PERCENTAGE": "0.03",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "MILL WORK",
+    "CODE": "MISC_MW_OH_003",
+    "DESC": "LOADING AND UNLOADING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "MILL WORK",
+    "CODE": "MISC_MW_OH_004",
+    "DESC": "FACTORY / MACHINARY COST",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "MILL WORK",
+    "CODE": "MISC_MW_OH_005",
+    "DESC": "TOOLS & TACKLES",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "MILL WORK",
+    "CODE": "MISC_MW_OH_006",
+    "DESC": "ELECTRICITY AND WATER CHARGES",
+    "PERCENTAGE": "0.005",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "MILL WORK",
+    "CODE": "MISC_MW_OH_007",
+    "DESC": "LIFTING AND SHIFTING FROM GROUND LEVEL TO SITE LEVEL",
+    "PERCENTAGE": "0.005",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "MILL WORK",
+    "CODE": "MISC_MW_OH_008",
+    "DESC": "SCAFOLDING",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "MILL WORK",
+    "CODE": "MISC_MW_OH_009",
+    "DESC": "HOUSEKEEPING",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "WALL FINISH",
+    "CODE": "MISC_WF_OH_001",
+    "DESC": "HARDWARE NAILS,FAVICOL, MISC ETC",
+    "PERCENTAGE": "0.02",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "WALL FINISH",
+    "CODE": "MISC_WF_OH_002",
+    "DESC": "CARRIAGE OF MATERIALS",
+    "PERCENTAGE": "0.03",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "WALL FINISH",
+    "CODE": "MISC_WF_OH_003",
+    "DESC": "LOADING AND UNLOADING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "WALL FINISH",
+    "CODE": "MISC_WF_OH_004",
+    "DESC": "FACTORY / MACHINARY COST",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "WALL FINISH",
+    "CODE": "MISC_WF_OH_005",
+    "DESC": "TOOLS & TACKLES",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "WALL FINISH",
+    "CODE": "MISC_WF_OH_006",
+    "DESC": "ELECTRICITY AND WATER CHARGES",
+    "PERCENTAGE": "0.005",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "WALL FINISH",
+    "CODE": "MISC_WF_OH_007",
+    "DESC": "LIFTING AND SHIFTING FROM GROUND LEVEL TO SITE LEVEL",
+    "PERCENTAGE": "0.005",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "WALL FINISH",
+    "CODE": "MISC_WF_OH_008",
+    "DESC": "SCAFOLDING",
+    "PERCENTAGE": "0.005",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "WALL FINISH",
+    "CODE": "MISC_WF_OH_009",
+    "DESC": "HOUSEKEEPING",
+    "PERCENTAGE": "0.005",
+    "OVERALL": "0.08"
+  },
+  {
+    "CLASS": "PAINT",
+    "CODE": "MISC_PT_OH_001",
+    "DESC": "HARDWARE NAILS,FAVICOL, MISC ETC",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.02"
+  },
+  {
+    "CLASS": "PAINT",
+    "CODE": "MISC_PT_OH_002",
+    "DESC": "CARRIAGE OF MATERIALS",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.02"
+  },
+  {
+    "CLASS": "PAINT",
+    "CODE": "MISC_PT_OH_003",
+    "DESC": "LOADING AND UNLOADING",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.02"
+  },
+  {
+    "CLASS": "PAINT",
+    "CODE": "MISC_PT_OH_004",
+    "DESC": "FACTORY / MACHINARY COST",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.02"
+  },
+  {
+    "CLASS": "PAINT",
+    "CODE": "MISC_PT_OH_005",
+    "DESC": "TOOLS & TACKLES",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.02"
+  },
+  {
+    "CLASS": "PAINT",
+    "CODE": "MISC_PT_OH_006",
+    "DESC": "ELECTRICITY AND WATER CHARGES",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.02"
+  },
+  {
+    "CLASS": "PAINT",
+    "CODE": "MISC_PT_OH_007",
+    "DESC": "LIFTING AND SHIFTING FROM GROUND LEVEL TO SITE LEVEL",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.02"
+  },
+  {
+    "CLASS": "PAINT",
+    "CODE": "MISC_PT_OH_008",
+    "DESC": "SCAFOLDING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.02"
+  },
+  {
+    "CLASS": "PAINT",
+    "CODE": "MISC_PT_OH_009",
+    "DESC": "HOUSEKEEPING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.02"
+  },
+  {
+    "CLASS": "CEILING",
+    "CODE": "MISC_CL_OH_001",
+    "DESC": "HARDWARE NAILS,FAVICOL, MISC ETC",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "CEILING",
+    "CODE": "MISC_CL_OH_002",
+    "DESC": "CARRIAGE OF MATERIALS",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "CEILING",
+    "CODE": "MISC_CL_OH_003",
+    "DESC": "LOADING AND UNLOADING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "CEILING",
+    "CODE": "MISC_CL_OH_004",
+    "DESC": "FACTORY / MACHINARY COST",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "CEILING",
+    "CODE": "MISC_CL_OH_005",
+    "DESC": "TOOLS & TACKLES",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "CEILING",
+    "CODE": "MISC_CL_OH_006",
+    "DESC": "ELECTRICITY AND WATER CHARGES",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "CEILING",
+    "CODE": "MISC_CL_OH_007",
+    "DESC": "LIFTING AND SHIFTING FROM GROUND LEVEL TO SITE LEVEL",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "CEILING",
+    "CODE": "MISC_CL_OH_008",
+    "DESC": "SCAFOLDING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "CEILING",
+    "CODE": "MISC_CL_OH_009",
+    "DESC": "HOUSEKEEPING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "DOOR",
+    "CODE": "MISC_DOOR_OH_001",
+    "DESC": "HARDWARE NAILS,FAVICOL, MISC ETC",
+    "PERCENTAGE": "0.03",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "DOOR",
+    "CODE": "MISC_DOOR_OH_002",
+    "DESC": "CARRIAGE OF MATERIALS",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "DOOR",
+    "CODE": "MISC_DOOR_OH_003",
+    "DESC": "LOADING AND UNLOADING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "DOOR",
+    "CODE": "MISC_DOOR_OH_004",
+    "DESC": "FACTORY / MACHINARY COST",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "DOOR",
+    "CODE": "MISC_DOOR_OH_005",
+    "DESC": "TOOLS & TACKLES",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "DOOR",
+    "CODE": "MISC_DOOR_OH_006",
+    "DESC": "ELECTRICITY AND WATER CHARGES",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "DOOR",
+    "CODE": "MISC_DOOR_OH_007",
+    "DESC": "LIFTING AND SHIFTING FROM GROUND LEVEL TO SITE LEVEL",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "DOOR",
+    "CODE": "MISC_DOOR_OH_008",
+    "DESC": "SCAFOLDING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "DOOR",
+    "CODE": "MISC_DOOR_OH_009",
+    "DESC": "HOUSEKEEPING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.07"
+  },
+  {
+    "CLASS": "MISC",
+    "CODE": "MISC_OH_001",
+    "DESC": "HARDWARE NAILS,FAVICOL, MISC ETC",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "MISC",
+    "CODE": "MISC_OH_002",
+    "DESC": "CARRIAGE OF MATERIALS",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "MISC",
+    "CODE": "MISC_OH_003",
+    "DESC": "LOADING AND UNLOADING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "MISC",
+    "CODE": "MISC_OH_004",
+    "DESC": "FACTORY / MACHINARY COST",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "MISC",
+    "CODE": "MISC_OH_005",
+    "DESC": "TOOLS & TACKLES",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "MISC",
+    "CODE": "MISC_OH_006",
+    "DESC": "ELECTRICITY AND WATER CHARGES",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "MISC",
+    "CODE": "MISC_OH_007",
+    "DESC": "LIFTING AND SHIFTING FROM GROUND LEVEL TO SITE LEVEL",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "MISC",
+    "CODE": "MISC_OH_008",
+    "DESC": "SCAFOLDING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "MISC",
+    "CODE": "MISC_OH_009",
+    "DESC": "HOUSEKEEPING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "LOOSE FURNITURE",
+    "CODE": "MISC_LF_OH_001",
+    "DESC": "HARDWARE NAILS,FAVICOL, MISC ETC",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "LOOSE FURNITURE",
+    "CODE": "MISC_LF_OH_002",
+    "DESC": "CARRIAGE OF MATERIALS",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "LOOSE FURNITURE",
+    "CODE": "MISC_LF_OH_003",
+    "DESC": "LOADING AND UNLOADING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "LOOSE FURNITURE",
+    "CODE": "MISC_LF_OH_004",
+    "DESC": "FACTORY / MACHINARY COST",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "LOOSE FURNITURE",
+    "CODE": "MISC_LF_OH_005",
+    "DESC": "TOOLS & TACKLES",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "LOOSE FURNITURE",
+    "CODE": "MISC_LF_OH_006",
+    "DESC": "ELECTRICITY AND WATER CHARGES",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "LOOSE FURNITURE",
+    "CODE": "MISC_LF_OH_007",
+    "DESC": "LIFTING AND SHIFTING FROM GROUND LEVEL TO SITE LEVEL",
+    "PERCENTAGE": "0",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "LOOSE FURNITURE",
+    "CODE": "MISC_LF_OH_008",
+    "DESC": "SCAFOLDING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.04"
+  },
+  {
+    "CLASS": "LOOSE FURNITURE",
+    "CODE": "MISC_LF_OH_009",
+    "DESC": "HOUSEKEEPING",
+    "PERCENTAGE": "0.01",
+    "OVERALL": "0.04"
+  }
+]

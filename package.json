@@ -1,0 +1,16 @@
+{
+  "name": "boq-gpt-full-working",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2",
+    "multer": "^1.4.5-lts.1",
+    "exceljs": "^4.3.0",
+    "openai": "^4.9.0"
+  }
+}
