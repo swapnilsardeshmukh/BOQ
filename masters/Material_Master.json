@@ -7,13 +7,13 @@
       "CATEGORY": "CIVIL",
       "SUBTYPE": null,
       "SQFT": null,
-      "SQMT": 4600,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": null,
+     "CUM": 4600  },
     {
       "CODE": "M-CIVIL-02",
       "ITEMS": "SIPHOREX BLOCK-SIZE-100 X 240 X 650 MM",
@@ -22,13 +22,13 @@
       "CATEGORY": "CIVIL",
       "SUBTYPE": null,
       "SQFT": null,
-      "SQMT": 4600,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": null,
+      "CUM": 4600  },
     {
       "CODE": "M-MILLWORK-01",
       "ITEMS": "4MM-THICKNESS-MARINE -710",
@@ -42,7 +42,8 @@
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
+      "NOS": null,
+      "CUM": null  
     },
     {
       "CODE": "M-MILLWORK-02",
@@ -57,8 +58,8 @@
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": null,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-08",
       "ITEMS": "4MM-THICKNESS-BWP",
@@ -66,14 +67,15 @@
       "CLASS": "B PLYWOOD",
       "CATEGORY": "PLYWOOD",
       "SUBTYPE": "BWP PLYWOOD",
-      "SQFT": null,
+      "SQFT": 48,
       "SQMT": 520,
       "KG": null,
       "TON": null,
-      "RFT": 48,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-09",
       "ITEMS": "6MM-THICKNESS-BWP",
@@ -88,7 +90,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-16",
       "ITEMS": "6MM-THICKNESS-MR",
@@ -96,14 +99,15 @@
       "CLASS": "B PLYWOOD",
       "CATEGORY": "PLYWOOD",
       "SUBTYPE": "COMMERCIAL PLYWOOD",
-      "SQFT": 369,
-      "SQMT": null,
+      "SQFT": 34,
+      "SQMT": 369,
       "KG": null,
       "TON": null,
-      "RFT": 34,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-18",
       "ITEMS": "12MM-THICKNESS-MR",
@@ -111,14 +115,15 @@
       "CLASS": "B PLYWOOD",
       "CATEGORY": "PLYWOOD",
       "SUBTYPE": "COMMERCIAL PLYWOOD",
-      "SQFT": null,
+      "SQFT": 49,
       "SQMT": 522,
       "KG": null,
       "TON": null,
-      "RFT": 49,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-23",
       "ITEMS": "Flexi Ply 8 ft x 4 ft Plywood - 8 mm",
@@ -133,7 +138,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-29",
       "ITEMS": "4MM-THICKNESS -5509 (E -0)",
@@ -148,7 +154,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-36",
       "ITEMS": "25MM-THICKNESS-FLUSH DOOR",
@@ -163,7 +170,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-44",
       "ITEMS": "4MM THICK FIRE RATED PLYWOOD-90 MIN",
@@ -178,7 +186,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-52",
       "ITEMS": "4MM THICK FIRE RATED PLYWOOD-50 MIN",
@@ -193,7 +202,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-60",
       "ITEMS": "1.9 MM-THICKNESS-Exterior Grade",
@@ -208,7 +218,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-77",
       "ITEMS": "",
@@ -223,7 +234,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-78",
       "ITEMS": "12MM THICK FRMDF BOARD",
@@ -238,7 +250,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-79",
       "ITEMS": "18MM THICK FRMDF BOARD",
@@ -253,7 +266,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-81",
       "ITEMS": "3 MM THICK HDF BOARD Club Grade",
@@ -261,14 +275,15 @@
       "CLASS": "B PLYWOOD",
       "CATEGORY": "PLYWOOD",
       "SUBTYPE": "HDF BOARD Club Grade",
-      "SQFT": 141,
-      "SQMT": null,
+      "SQFT": 13,
+      "SQMT": 141,
       "KG": null,
       "TON": null,
-      "RFT": 13,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-82",
       "ITEMS": "3.3MM THICK HDF BOARD Club Grade",
@@ -276,14 +291,15 @@
       "CLASS": "B PLYWOOD",
       "CATEGORY": "PLYWOOD",
       "SUBTYPE": "HDF BOARD Club Grade",
-      "SQFT": 155,
-      "SQMT": null,
+      "SQFT": 14,
+      "SQMT": 155,
       "KG": null,
       "TON": null,
-      "RFT": 14,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-94",
       "ITEMS": "3 MM THICK HILUX BOARD (Calcium Silicate Board)",
@@ -298,7 +314,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-95",
       "ITEMS": "6 MM - 6 x 4 THICK HILUX BOARD (Calcium Silicate Board)",
@@ -306,14 +323,15 @@
       "CLASS": "B PLYWOOD",
       "CATEGORY": "PLYWOOD",
       "SUBTYPE": "HILUX BOARD (Calcium Silicate Board)",
-      "SQFT": 258,
-      "SQMT": null,
+      "SQFT": 24,
+      "SQMT": 258,
       "KG": null,
       "TON": null,
-      "RFT": 24,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-101",
       "ITEMS": "6mm THICK Bison Board Size 8 x 4",
@@ -321,14 +339,15 @@
       "CLASS": "B PLYWOOD",
       "CATEGORY": "PLYWOOD",
       "SUBTYPE": "Bison Board",
-      "SQFT": 240,
-      "SQMT": null,
+      "SQFT": 22,
+      "SQMT": 240,
       "KG": null,
       "TON": null,
-      "RFT": 22,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-102",
       "ITEMS": "8mm THICK Bison Board Size 8 x 4",
@@ -336,14 +355,15 @@
       "CLASS": "B PLYWOOD",
       "CATEGORY": "PLYWOOD",
       "SUBTYPE": "Bison Board",
-      "SQFT": 314,
-      "SQMT": null,
+      "SQFT": 29,
+      "SQMT": 314,
       "KG": null,
       "TON": null,
-      "RFT": 29,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-113",
       "ITEMS": "1 MM THICK-LAMINATE-OUTSIDE/SURFACE FINISH",
@@ -357,8 +377,9 @@
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": null,
+      "CUM": null 
+   },
     {
       "CODE": "M-MILLWORK-132",
       "ITEMS": "Hardwood for door frame",
@@ -367,13 +388,14 @@
       "CATEGORY": "WOOD",
       "SUBTYPE": "TYPES OF WOOD",
       "SQFT": null,
-      "SQMT": 1200,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": null,
+      "CUM": null,
+      "CFT_RATE" : 1200  },
     {
       "CODE": "M-MILLWORK-133",
       "ITEMS": "2mm thick PVC edge lipping",
@@ -388,7 +410,8 @@
       "RFT": 35,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-139",
       "ITEMS": "VENEER",
@@ -403,7 +426,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MILLWORK-145",
       "ITEMS": "12mm PRELAM PLY PANELLING",
@@ -418,7 +442,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-METAL-132",
       "ITEMS": "25 X 25 - ( 18 GZ. - 1.2MM. THK. )",
@@ -426,14 +451,15 @@
       "CLASS": "D ALUMINIUM PIPE",
       "CATEGORY": "ALUMINIUM PIPE",
       "SUBTYPE": "18 GZ",
-      "SQFT": 310,
+      "SQFT": null,
       "SQMT": null,
-      "KG": null,
+      "KG": 310,
       "TON": null,
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-METAL-133",
       "ITEMS": "50 X 25 - ( 18 GZ. - 1.2MM. THK. )",
@@ -441,14 +467,15 @@
       "CLASS": "D ALUMINIUM PIPE",
       "CATEGORY": "ALUMINIUM PIPE",
       "SUBTYPE": "18 GZ",
-      "SQFT": 310,
+      "SQFT": null,
       "SQMT": null,
-      "KG": null,
+      "KG": 310,
       "TON": null,
       "RFT": 48,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-METAL-137",
       "ITEMS": "50 X 25 - ( 16 GZ. - 1.6MM. THK. )",
@@ -456,14 +483,15 @@
       "CLASS": "D ALUMINIUM PIPE",
       "CATEGORY": "ALUMINIUM PIPE",
       "SUBTYPE": "16 GZ",
-      "SQFT": 65,
+      "SQFT": null,
       "SQMT": null,
-      "KG": null,
+      "KG": 310,
       "TON": null,
-      "RFT": null,
+      "RFT": 65,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-METAL-140",
       "ITEMS": "25 X 25 - ( 14 GZ. - 2MM. THK. )",
@@ -473,12 +501,13 @@
       "SUBTYPE": "14 GZ",
       "SQFT": null,
       "SQMT": null,
-      "KG": null,
+      "KG": 310,
       "TON": null,
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-01",
       "ITEMS": "CLEAR GLASS",
@@ -493,7 +522,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-02",
       "ITEMS": "4mm THICK CLEAR GLASS",
@@ -508,7 +538,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-03",
       "ITEMS": "5mm THICK CLEAR GLASS",
@@ -523,7 +554,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-11",
       "ITEMS": "EXTRA CLAR GLASS",
@@ -538,7 +570,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-12",
       "ITEMS": "4mm THICK EXTRA CLAR GLASS",
@@ -553,7 +586,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-13",
       "ITEMS": "5mm THICK EXTRA CLAR GLASS",
@@ -568,7 +602,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-18",
       "ITEMS": "",
@@ -583,7 +618,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-19",
       "ITEMS": "LAQUERED GLASS",
@@ -598,7 +634,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-20",
       "ITEMS": "6mm THICK LAQUERED GLASS",
@@ -613,7 +650,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-21",
       "ITEMS": "8mm THICK LAQUERED GLASS",
@@ -628,7 +666,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-22",
       "ITEMS": "",
@@ -643,7 +682,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-23",
       "ITEMS": "BRONZE MIRROR",
@@ -658,7 +698,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-24",
       "ITEMS": "5mm THICK BRONZE MIRROR",
@@ -673,7 +714,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-25",
       "ITEMS": "6mm THICK BRONZE MIRROR",
@@ -688,7 +730,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-26",
       "ITEMS": "",
@@ -703,7 +746,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-27",
       "ITEMS": "TOUGHENED GLASS",
@@ -718,7 +762,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-28",
       "ITEMS": "4mm THICK TOUGHENED GLASS",
@@ -733,7 +778,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-29",
       "ITEMS": "5mm THICK TOUGHENED GLASS",
@@ -748,7 +794,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-36",
       "ITEMS": "",
@@ -763,7 +810,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-37",
       "ITEMS": "COLOUR GLASS",
@@ -778,7 +826,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-38",
       "ITEMS": "4mm THICK COLOUR GLASS",
@@ -793,7 +842,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-39",
       "ITEMS": "6mm THICK COLOUR GLASS",
@@ -808,7 +858,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-42",
       "ITEMS": "",
@@ -823,7 +874,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-43",
       "ITEMS": "MIRROR",
@@ -838,7 +890,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-44",
       "ITEMS": "4mm THICK MIRROR",
@@ -853,7 +906,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-45",
       "ITEMS": "5mm THICK MIRROR",
@@ -868,7 +922,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-47",
       "ITEMS": "",
@@ -883,7 +938,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-48",
       "ITEMS": "EXTRA CLEAR MIRROR",
@@ -898,7 +954,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-49",
       "ITEMS": "5mm THICK EXTRA CLEAR MIRROR",
@@ -913,7 +970,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-50",
       "ITEMS": "6mm THICK EXTRA CLEAR MIRROR",
@@ -928,7 +986,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-51",
       "ITEMS": "",
@@ -943,7 +1002,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-52",
       "ITEMS": "ANTIQUE MIRROR",
@@ -958,7 +1018,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-53",
       "ITEMS": "5mm -THICK ANTIQUE MIRROR",
@@ -973,7 +1034,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-54",
       "ITEMS": "",
@@ -988,7 +1050,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-55",
       "ITEMS": "LAMINATED GLASS",
@@ -1003,7 +1066,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-56",
       "ITEMS": "11.52 MM ( 5+5+1.52PVB ) THICK LAMINATED GLASS",
@@ -1018,7 +1082,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-57",
       "ITEMS": "13.52MM ( 6+6+1.52PVB ) THICK LAMINATED GLASS",
@@ -1033,7 +1098,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-58",
       "ITEMS": "",
@@ -1048,7 +1114,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-59",
       "ITEMS": "FLUTTED GLASS",
@@ -1063,7 +1130,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-60",
       "ITEMS": "5mm THICK FLUTTED GLASS",
@@ -1078,7 +1146,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-61",
       "ITEMS": "8mm THICK FLUTTED GLASS",
@@ -1093,7 +1162,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-62",
       "ITEMS": "10mm THICK FLUTTED GLASS",
@@ -1108,7 +1178,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-63",
       "ITEMS": "",
@@ -1123,7 +1194,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-64",
       "ITEMS": "FLUTTED GLASS Extra Clear",
@@ -1138,7 +1210,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-65",
       "ITEMS": "5MM THICK FLUTTED GLASS Extra Clear",
@@ -1153,7 +1226,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-66",
       "ITEMS": "8MM THICK FLUTTED GLASS Extra Clear",
@@ -1168,7 +1242,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GLASS-67",
       "ITEMS": "10MM THICK FLUTTED GLASS Extra Clear",
@@ -1183,22 +1258,24 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-01",
       "ITEMS": "Gypsum Board PL 12.5x1219x1829 mm TE",
       "CLASS_LETTER": "H",
       "CLASS": "H GYPROC MATERIAL",
       "CATEGORY": "GYPROC MATERIAL",
-      "SUBTYPE": null,
+      "SUBTYPE": 14,
       "SQFT": 146,
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 14,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 325
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-02",
       "ITEMS": "Easy fill 90 Jointing Compound",
@@ -1208,12 +1285,13 @@
       "SUBTYPE": null,
       "SQFT": null,
       "SQMT": null,
-      "KG": null,
+      "KG": 25.12,
       "TON": null,
-      "RFT": 25.12,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-03",
       "ITEMS": "Jointing Paper Tape Roll",
@@ -1221,14 +1299,15 @@
       "CLASS": "H GYPROC MATERIAL",
       "CATEGORY": "GYPROC MATERIAL",
       "SUBTYPE": null,
-      "SQFT": 160,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 2,
-      "RMT": null,
-      "NOS": null
-    },
+      "RFT": null,
+      "RMT": 2,
+      "NOS": 160
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-04",
       "ITEMS": "0.5mm Gypsteel Ceiling Section ultra 3660 long",
@@ -1236,14 +1315,15 @@
       "CLASS": "H GYPROC MATERIAL",
       "CATEGORY": "GYPROC MATERIAL",
       "SUBTYPE": null,
-      "SQFT": 255,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 255
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-05",
       "ITEMS": "0.5mm Gypsteel Intermediate Channel ultra 3660 long",
@@ -1251,14 +1331,15 @@
       "CLASS": "H GYPROC MATERIAL",
       "CATEGORY": "GYPROC MATERIAL",
       "SUBTYPE": null,
-      "SQFT": 251.5,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 251.5
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-06",
       "ITEMS": "0.5mm Gypsteel Perimeter Channel 3660 long",
@@ -1266,14 +1347,15 @@
       "CLASS": "H GYPROC MATERIAL",
       "CATEGORY": "GYPROC MATERIAL",
       "SUBTYPE": null,
-      "SQFT": 151.5,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 151.5
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-07",
       "ITEMS": "0.5mm Gypsteel Ceiling Angle 3660 long",
@@ -1281,14 +1363,15 @@
       "CLASS": "H GYPROC MATERIAL",
       "CATEGORY": "GYPROC MATERIAL",
       "SUBTYPE": null,
-      "SQFT": 81.5,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 81.5
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-08",
       "ITEMS": "Connecting Clip",
@@ -1300,10 +1383,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 4.66,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 4.66
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-09",
       "ITEMS": "Soffit Cleat",
@@ -1315,10 +1399,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 3.05,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 3.05
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-10",
       "ITEMS": "Rawl Plug",
@@ -1330,10 +1415,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 8,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 8
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-11",
       "ITEMS": "Philip M6 Nut Bolt",
@@ -1345,10 +1431,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 1.75,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 1.75
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-12",
       "ITEMS": "Fastner HPS -1 6X40 (combo)",
@@ -1360,10 +1447,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 10,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 10
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-13",
       "ITEMS": "Dry Wall Screws 25 mm",
@@ -1375,10 +1463,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 0.34,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 0.34
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-14",
       "ITEMS": "Gypsum Board 950Kg/m3 density board",
@@ -1386,14 +1475,15 @@
       "CLASS": "H GYPROC MATERIAL",
       "CATEGORY": "GYPROC MATERIAL",
       "SUBTYPE": null,
-      "SQFT": null,
+      "SQFT": 32,
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 32,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-21",
       "ITEMS": "Gypsum Board MR 12.5x1219x1829 mm TE",
@@ -1401,14 +1491,15 @@
       "CLASS": "H GYPROC MATERIAL",
       "CATEGORY": "GYPROC MATERIAL",
       "SUBTYPE": null,
-      "SQFT": 312,
-      "SQMT": 685.86,
+      "SQFT": 29,
+      "SQMT": 312,
       "KG": null,
       "TON": null,
-      "RFT": 29,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 685.86
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-34",
       "ITEMS": "Pro-Fill Jointing compound (25 Kg)",
@@ -1416,14 +1507,15 @@
       "CLASS": "H GYPROC MATERIAL",
       "CATEGORY": "GYPROC MATERIAL",
       "SUBTYPE": "Jointing Compound",
-      "SQFT": null,
-      "SQMT": 687,
+      "SQFT": 28,
+      "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 28,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 687
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-35",
       "ITEMS": "EASI-FILL 90 JOINTING COMPOUND (20 kg)",
@@ -1431,14 +1523,15 @@
       "CLASS": "H GYPROC MATERIAL",
       "CATEGORY": "GYPROC MATERIAL",
       "SUBTYPE": "Jointing Compound",
-      "SQFT": 427,
+      "SQFT": 22,
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 22,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 427
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-40",
       "ITEMS": "SCREW 25mm 1000/Box",
@@ -1450,10 +1543,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 0.4,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 0.4
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-41",
       "ITEMS": "SCREW 35mm 500/Box",
@@ -1465,10 +1559,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 0.58,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 0.58
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-43",
       "ITEMS": "SCREW Metal to Metal 4.2x13mm 500/Box",
@@ -1480,10 +1575,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 0.87,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 0.87
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-49",
       "ITEMS": "RAWL PLUG 8x45mm",
@@ -1495,10 +1591,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 10,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 10
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-56",
       "ITEMS": "GYPROC JOINT PAPER TAPE 90M",
@@ -1506,14 +1603,15 @@
       "CLASS": "I Accessories",
       "CATEGORY": "Accessories",
       "SUBTYPE": null,
-      "SQFT": 167,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 167
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-60",
       "ITEMS": "GLASS WOOL BRACKET",
@@ -1525,10 +1623,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 13,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 13
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-69",
       "ITEMS": "GI-CHANNEL F&C 0.50x50x3660 GypSerra",
@@ -1536,14 +1635,15 @@
       "CLASS": "J Metal Section",
       "CATEGORY": "Metal Section",
       "SUBTYPE": null,
-      "SQFT": 241.5,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 241.5
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-70",
       "ITEMS": "GI-CHANNEL F&C 0.50x72x3660 GypSerra",
@@ -1551,14 +1651,15 @@
       "CLASS": "J Metal Section",
       "CATEGORY": "Metal Section",
       "SUBTYPE": null,
-      "SQFT": 286.5,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 286.5
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-74",
       "ITEMS": "GI-RIB H CUT STUD 0.5x48x3660 GypSerra",
@@ -1566,14 +1667,15 @@
       "CLASS": "J Metal Section",
       "CATEGORY": "Metal Section",
       "SUBTYPE": null,
-      "SQFT": 283,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 283
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-82",
       "ITEMS": "GI-I-STUD 0.7X70X3660 GYPSERRA",
@@ -1582,13 +1684,14 @@
       "CATEGORY": "Metal Section",
       "SUBTYPE": null,
       "SQFT": null,
-      "SQMT": 1071,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 1071
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-85",
       "ITEMS": "GI Noggin Channel .5x48x40x695 GypSerra",
@@ -1596,14 +1699,15 @@
       "CLASS": "J Metal Section",
       "CATEGORY": "Metal Section",
       "SUBTYPE": null,
-      "SQFT": 70,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 70
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-89",
       "ITEMS": "GI Noggin Channel .5x70x40x695 GypSerra",
@@ -1611,14 +1715,15 @@
       "CLASS": "J Metal Section",
       "CATEGORY": "Metal Section",
       "SUBTYPE": null,
-      "SQFT": 80,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 80
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-96",
       "ITEMS": "ROCKWOOL SLAB -48KG/M3-50 MM THK",
@@ -1626,17 +1731,34 @@
       "CLASS": "K INFILL/ACOUSTIC INSULLATION",
       "CATEGORY": "INFILL/ACOUSTIC INSULLATION",
       "SUBTYPE": null,
-      "SQFT": 165,
-      "SQMT": null,
+      "SQFT": 15,
+      "SQMT": 165,
       "KG": null,
       "TON": null,
-      "RFT": 15,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-115",
       "ITEMS": "R.P. TISSUE PAPER",
+      "CLASS_LETTER": "K",
+      "CLASS": "K INFILL/ACOUSTIC INSULLATION",
+      "CATEGORY": "INFILL/ACOUSTIC INSULLATION",
+      "SUBTYPE": null,
+      "SQFT": 2,
+      "SQMT": 17,
+      "KG": null,
+      "TON": null,
+      "RFT": null,
+      "RMT": null,
+      "NOS": null
+    ,
+    "CUM": null  },
+    {
+      "CODE": "M-GYP-116",
+      "ITEMS": "Fire Sealant",
       "CLASS_LETTER": "K",
       "CLASS": "K INFILL/ACOUSTIC INSULLATION",
       "CATEGORY": "INFILL/ACOUSTIC INSULLATION",
@@ -1645,25 +1767,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 2,
-      "RMT": null,
-      "NOS": null
-    },
-    {
-      "CODE": "M-GYP-116",
-      "ITEMS": "Fire Sealant",
-      "CLASS_LETTER": "K",
-      "CLASS": "K INFILL/ACOUSTIC INSULLATION",
-      "CATEGORY": "INFILL/ACOUSTIC INSULLATION",
-      "SUBTYPE": null,
-      "SQFT": 72,
-      "SQMT": null,
-      "KG": null,
-      "TON": null,
       "RFT": 22,
-      "RMT": null,
+      "RMT": 272,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-120",
       "ITEMS": "Moisture Barrier Film",
@@ -1671,14 +1779,15 @@
       "CLASS": "K INFILL/ACOUSTIC INSULLATION",
       "CATEGORY": "INFILL/ACOUSTIC INSULLATION",
       "SUBTYPE": null,
-      "SQFT": 97,
-      "SQMT": null,
+      "SQFT": 9,
+      "SQMT": 97,
       "KG": null,
       "TON": null,
-      "RFT": 9,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-GYP-122",
       "ITEMS": "3MM Tikkar Membrane MAD3",
@@ -1693,7 +1802,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-PROFILE-01",
       "ITEMS": "Aluminium Skirting Easy Fix - Height : 50mm Silver Colour 3048MM Long",
@@ -1701,14 +1811,15 @@
       "CLASS": "P Aluminium Skirtings & Trims",
       "CATEGORY": "Aluminium Skirtings & Trims",
       "SUBTYPE": null,
-      "SQFT": 156,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": 48,
-      "RMT": null,
-      "NOS": null
-    },
+      "RMT": 156,
+      "NOS": 475
+    ,
+    "CUM": null  },
     {
       "CODE": "M-PROFILE-66",
       "ITEMS": "Aluminium Corner Guard Black Colour 2800MM Long 38MM",
@@ -1716,14 +1827,15 @@
       "CLASS": "P Aluminium Skirtings & Trims",
       "CATEGORY": "Aluminium Skirtings & Trims",
       "SUBTYPE": null,
-      "SQFT": 92,
-      "SQMT": 830,
+      "SQFT": null,
+      "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": null,
-      "RMT": null,
-      "NOS": null
-    },
+      "RFT": 92,
+      "RMT": 303,
+      "NOS": 830
+    ,
+    "CUM": null  },
     {
       "CODE": "M-PROFILE-67",
       "ITEMS": "",
@@ -1738,7 +1850,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-01",
       "ITEMS": "3mm - SELF LEVELING FOR VINYL/CARPET/LVT/WOODEN FLOOR ON CONCRETE SURFACE",
@@ -1746,14 +1859,15 @@
       "CLASS": "M MISCELLANEOUS",
       "CATEGORY": "MISCELLANEOUS",
       "SUBTYPE": null,
-      "SQFT": 344,
-      "SQMT": null,
+      "SQFT": 32,
+      "SQMT": 344,
       "KG": null,
       "TON": null,
-      "RFT": 32,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-02",
       "ITEMS": "4mm - SELF LEVELING FOR VINYL/CARPET/LVT/WOODEN FLOOR ON CONCRETE SURFACE",
@@ -1761,14 +1875,15 @@
       "CLASS": "M MISCELLANEOUS",
       "CATEGORY": "MISCELLANEOUS",
       "SUBTYPE": null,
-      "SQFT": 441,
-      "SQMT": null,
+      "SQFT": 41,
+      "SQMT": 441,
       "KG": null,
       "TON": null,
-      "RFT": 41,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-07",
       "ITEMS": "EPOXY FLOORING 1mm",
@@ -1783,7 +1898,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-08",
       "ITEMS": "EPOXY FLOORING 2mm",
@@ -1798,7 +1914,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-10",
       "ITEMS": "EPOXY COATING",
@@ -1813,7 +1930,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-11",
       "ITEMS": "PU Flooring 3mm",
@@ -1828,7 +1946,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-13",
       "ITEMS": "Hardwood for door frame",
@@ -1837,13 +1956,14 @@
       "CATEGORY": "MISCELLANEOUS",
       "SUBTYPE": null,
       "SQFT": null,
-      "SQMT": 1200,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": 1200  },
     {
       "CODE": "M-MISC-14",
       "ITEMS": "Fabric",
@@ -1852,13 +1972,14 @@
       "CATEGORY": "MISCELLANEOUS",
       "SUBTYPE": null,
       "SQFT": null,
-      "SQMT": 900,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
-      "RMT": null,
+      "RMT": 900,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-15",
       "ITEMS": "Foam Seating Polyurethane Medium",
@@ -1873,7 +1994,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-16",
       "ITEMS": "SS Leg",
@@ -1882,13 +2004,14 @@
       "CATEGORY": "MISCELLANEOUS",
       "SUBTYPE": null,
       "SQFT": null,
-      "SQMT": 10000,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 10000
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-17",
       "ITEMS": "FABRIC_01",
@@ -1896,14 +2019,15 @@
       "CLASS": "M MISCELLANEOUS",
       "CATEGORY": "MISCELLANEOUS",
       "SUBTYPE": null,
-      "SQFT": 107,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": null,
+      "RFT": 107,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-18",
       "ITEMS": "FOHM",
@@ -1918,55 +2042,11 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-19",
       "ITEMS": "Silicon TUBE PER NOS",
-      "CLASS_LETTER": "M",
-      "CLASS": "M MISCELLANEOUS",
-      "CATEGORY": "MISCELLANEOUS",
-      "SUBTYPE": null,
-      "SQFT": 250,
-      "SQMT": null,
-      "KG": null,
-      "TON": null,
-      "RFT": null,
-      "RMT": null,
-      "NOS": null
-    },
-    {
-      "CODE": "M-MISC-20",
-      "ITEMS": "3m tape@450-5METER",
-      "CLASS_LETTER": "M",
-      "CLASS": "M MISCELLANEOUS",
-      "CATEGORY": "MISCELLANEOUS",
-      "SUBTYPE": null,
-      "SQFT": 450,
-      "SQMT": null,
-      "KG": null,
-      "TON": null,
-      "RFT": null,
-      "RMT": null,
-      "NOS": null
-    },
-    {
-      "CODE": "M-MISC-21",
-      "ITEMS": "FEVICOL",
-      "CLASS_LETTER": "M",
-      "CLASS": "M MISCELLANEOUS",
-      "CATEGORY": "MISCELLANEOUS",
-      "SUBTYPE": null,
-      "SQFT": 300,
-      "SQMT": null,
-      "KG": null,
-      "TON": null,
-      "RFT": null,
-      "RMT": null,
-      "NOS": null
-    },
-    {
-      "CODE": "M-MISC-22",
-      "ITEMS": "Sitatex Board",
       "CLASS_LETTER": "M",
       "CLASS": "M MISCELLANEOUS",
       "CATEGORY": "MISCELLANEOUS",
@@ -1975,10 +2055,58 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 28,
+      "RFT": null,
+      "RMT": null,
+      "NOS": 250
+    ,
+    "CUM": null  },
+    {
+      "CODE": "M-MISC-20",
+      "ITEMS": "3m tape@450-5METER",
+      "CLASS_LETTER": "M",
+      "CLASS": "M MISCELLANEOUS",
+      "CATEGORY": "MISCELLANEOUS",
+      "SUBTYPE": null,
+      "SQFT": null,
+      "SQMT": null,
+      "KG": null,
+      "TON": null,
+      "RFT": null,
+      "RMT": null,
+      "NOS": 450
+    ,
+    "CUM": null  },
+    {
+      "CODE": "M-MISC-21",
+      "ITEMS": "FEVICOL",
+      "CLASS_LETTER": "M",
+      "CLASS": "M MISCELLANEOUS",
+      "CATEGORY": "MISCELLANEOUS",
+      "SUBTYPE": null,
+      "SQFT": null,
+      "SQMT": null,
+      "KG": 300,
+      "TON": null,
+      "RFT": null,
+      "RMT": null,
+      "NOS": null,
+    "CUM": null  },
+    {
+      "CODE": "M-MISC-22",
+      "ITEMS": "Sitatex Board",
+      "CLASS_LETTER": "M",
+      "CLASS": "M MISCELLANEOUS",
+      "CATEGORY": "MISCELLANEOUS",
+      "SUBTYPE": null,
+      "SQFT": 28,
+      "SQMT": null,
+      "KG": null,
+      "TON": null,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-23",
       "ITEMS": "GRIPPER",
@@ -1993,7 +2121,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-24",
       "ITEMS": "foam density",
@@ -2001,14 +2130,15 @@
       "CLASS": "M MISCELLANEOUS",
       "CATEGORY": "MISCELLANEOUS",
       "SUBTYPE": null,
-      "SQFT": null,
+      "SQFT": 20,
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 20,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-25",
       "ITEMS": "FABRIC_02",
@@ -2023,7 +2153,8 @@
       "RFT": 35,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-26",
       "ITEMS": "1.5mm thick poly vinyl sheet",
@@ -2031,14 +2162,15 @@
       "CLASS": "M MISCELLANEOUS",
       "CATEGORY": "MISCELLANEOUS",
       "SUBTYPE": null,
-      "SQFT": 54,
-      "SQMT": 5,
+      "SQFT": 5,
+      "SQMT": 54,
       "KG": null,
       "TON": null,
-      "RFT": 5,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-27",
       "ITEMS": "BUBBLE SHEET",
@@ -2046,14 +2178,15 @@
       "CLASS": "M MISCELLANEOUS",
       "CATEGORY": "MISCELLANEOUS",
       "SUBTYPE": null,
-      "SQFT": 54,
-      "SQMT": null,
+      "SQFT": 5,
+      "SQMT":54 ,
       "KG": null,
       "TON": null,
-      "RFT": 5,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-28",
       "ITEMS": "COPPER GRID",
@@ -2061,14 +2194,15 @@
       "CLASS": "M MISCELLANEOUS",
       "CATEGORY": "MISCELLANEOUS",
       "SUBTYPE": null,
-      "SQFT": 377,
-      "SQMT": null,
+      "SQFT": 35,
+      "SQMT": 277,
       "KG": null,
       "TON": null,
-      "RFT": 35,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-29",
       "ITEMS": "FLEX ADHESIVE",
@@ -2083,7 +2217,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-30",
       "ITEMS": "Polythene sheet 0.5 mm thick",
@@ -2091,14 +2226,15 @@
       "CLASS": "M MISCELLANEOUS",
       "CATEGORY": "MISCELLANEOUS",
       "SUBTYPE": null,
-      "SQFT": null,
-      "SQMT": null,
+      "SQFT": 2,
+      "SQMT": 22,
       "KG": null,
       "TON": null,
-      "RFT": 2,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-31",
       "ITEMS": "Polyethylene cell foam 2 mm thick",
@@ -2106,14 +2242,15 @@
       "CLASS": "M MISCELLANEOUS",
       "CATEGORY": "MISCELLANEOUS",
       "SUBTYPE": null,
-      "SQFT": 54,
-      "SQMT": null,
+      "SQFT": 5,
+      "SQMT": 54,
       "KG": null,
       "TON": null,
-      "RFT": 5,
+      "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-32",
       "ITEMS": "ADHESIVE CHEMICAL",
@@ -2128,7 +2265,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-33",
       "ITEMS": "1.5mm thick fire retardant, floor grade high-pressure antistatic factory pressed laminate",
@@ -2143,7 +2281,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-34",
       "ITEMS": "",
@@ -2158,7 +2297,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-35",
       "ITEMS": "",
@@ -2173,7 +2313,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-36",
       "ITEMS": "",
@@ -2188,7 +2329,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MISC-37",
       "ITEMS": "",
@@ -2203,7 +2345,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-01",
       "ITEMS": "Hingees",
@@ -2211,14 +2354,15 @@
       "CLASS": "N HARDWARE",
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
-      "SQFT": 180,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 180
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-02",
       "ITEMS": "Handle",
@@ -2226,14 +2370,15 @@
       "CLASS": "N HARDWARE",
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
-      "SQFT": 300,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 300
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-03",
       "ITEMS": "Megnet",
@@ -2245,10 +2390,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 25,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 25
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-04",
       "ITEMS": "Towerbolt",
@@ -2256,14 +2402,15 @@
       "CLASS": "N HARDWARE",
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
-      "SQFT": 75,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 75
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-05",
       "ITEMS": "Multi purpose lock",
@@ -2271,14 +2418,15 @@
       "CLASS": "N HARDWARE",
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
-      "SQFT": 250,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 250
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-06",
       "ITEMS": "Shelves pin",
@@ -2290,10 +2438,11 @@
       "SQMT": null,
       "KG": null,
       "TON": null,
-      "RFT": 20,
+      "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 20
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-07",
       "ITEMS": "Soft close Auto Hinges",
@@ -2301,14 +2450,15 @@
       "CLASS": "N HARDWARE",
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
-      "SQFT": 228,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 228
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-08",
       "ITEMS": "Tower Bolt",
@@ -2316,14 +2466,15 @@
       "CLASS": "N HARDWARE",
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
-      "SQFT": 75,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 228
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-09",
       "ITEMS": "Drawer channel- Quadro silent soft close",
@@ -2332,13 +2483,14 @@
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
       "SQFT": null,
-      "SQMT": 1000,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 1000
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-10",
       "ITEMS": "Louvered",
@@ -2346,14 +2498,15 @@
       "CLASS": "N HARDWARE",
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
-      "SQFT": null,
-      "SQMT": 500,
+      "SQFT": 500,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-11",
       "ITEMS": "5 Knuckle, 2 Ball bearing Butt Hinges. BB 4330",
@@ -2361,14 +2514,15 @@
       "CLASS": "N HARDWARE",
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
-      "SQFT": 300,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 300
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-12",
       "ITEMS": "Pure 8100 Lever Handle with 6501 Roses, 6612 Escutcheons,8 mm Spindle with Fixing Screws for door thickness 35-55 mm",
@@ -2377,13 +2531,14 @@
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
       "SQFT": null,
-      "SQMT": 1500,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 1500
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-13",
       "ITEMS": "LKEY",
@@ -2391,14 +2546,15 @@
       "CLASS": "N HARDWARE",
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
-      "SQFT": 100,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 100
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-14",
       "ITEMS": "CHAIN",
@@ -2406,14 +2562,15 @@
       "CLASS": "N HARDWARE",
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
-      "SQFT": 200,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 200
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-15",
       "ITEMS": "5 Knuckle, 2 Ball bearing Butt Hinges. BB 4330",
@@ -2421,14 +2578,15 @@
       "CLASS": "N HARDWARE",
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
-      "SQFT": 300,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 300
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-16",
       "ITEMS": "Pure 8100 Lever Handle with 6501 Roses, 6612 Escutcheons,8 mm Spindle with Fixing Screws for door thickness 35-55 mm",
@@ -2437,13 +2595,14 @@
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
       "SQFT": null,
-      "SQMT": 1500,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 1500
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-17",
       "ITEMS": "271 Sash lock with strike plate and Euro Profile cylinder one side key other• Magnet Catcher / Shutter Silent System/ Push to open system",
@@ -2452,13 +2611,14 @@
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
       "SQFT": null,
-      "SQMT": 3000,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 3000
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-18",
       "ITEMS": "ITS 96 Concealed Door CloserG 96 N Slide Arm, Finish : Silverwith Cushion Limit Stay EN 2-4Max Door With : 1100 mmMin. Door Thickness: 40 mm",
@@ -2467,13 +2627,14 @@
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
       "SQFT": null,
-      "SQMT": 12500,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 12500
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-19",
       "ITEMS": "Mechanical hold-open unit for G 96 N with on/off feature,adjustable engage and release force",
@@ -2482,13 +2643,14 @@
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
       "SQFT": null,
-      "SQMT": 2000,
+      "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 2000
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-20",
       "ITEMS": "Door Stop half dome 45mm dia",
@@ -2496,14 +2658,15 @@
       "CLASS": "N HARDWARE",
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
-      "SQFT": 250,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": 250  },
     {
       "CODE": "M-HW-21",
       "ITEMS": "CLIP/HOOK",
@@ -2511,14 +2674,15 @@
       "CLASS": "N HARDWARE",
       "CATEGORY": "HARDWARE",
       "SUBTYPE": null,
-      "SQFT": 50,
+      "SQFT": null,
       "SQMT": null,
       "KG": null,
       "TON": null,
       "RFT": null,
       "RMT": null,
-      "NOS": null
-    },
+      "NOS": 50
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-22",
       "ITEMS": "",
@@ -2533,7 +2697,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-23",
       "ITEMS": "",
@@ -2548,7 +2713,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-24",
       "ITEMS": "",
@@ -2563,7 +2729,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-HW-25",
       "ITEMS": "",
@@ -2578,7 +2745,8 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MT-01",
       "ITEMS": "STRUCTURAL STEEL",
@@ -2586,14 +2754,15 @@
       "CLASS": "O METAL",
       "CATEGORY": "METAL",
       "SUBTYPE": null,
-      "SQFT": 75,
+      "SQFT": null,
       "SQMT": null,
-      "KG": null,
-      "TON": null,
+      "KG": 75,
+      "TON": 75000,
       "RFT": null,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MT-02",
       "ITEMS": "MS FRAME WORK SIZE 25 MM X25 MM X2MM",
@@ -2608,7 +2777,8 @@
       "RFT": 34,
       "RMT": null,
       "NOS": null
-    },
+    ,
+    "CUM": null  },
     {
       "CODE": "M-MT-03",
       "ITEMS": "",
@@ -2623,5 +2793,6 @@
       "RFT": null,
       "RMT": null,
       "NOS": null
-    }
+    ,
+    "CUM": null  }
   ]
