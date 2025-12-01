@@ -64,47 +64,46 @@ const uomAliases = {
 };
 
 export function normalizeUOM(item) {
+  if (item.KG) return "KG";
+  if (item.TON) return "TON";
+  if (item.RFT) return "RFT";
+  if (item.RMT) return "RMT";
+  if (item.SQFT) return "SQFT";
+  if (item.SQMT) return "SQMT";
+  if (item.CUM) return "CUM";
+  if (item.CFT) return "CFT";
+  if (item.NOS) return "NOS";
+
+  // fallback if everything is null and only then rely on raw UOM
   let raw = (item.UOM || "").toString().trim().toUpperCase();
-
-  // Priority for SQFT / SQMT used if values present
-  if (item.SQFT && item.SQMT) return "SQFT";
-  if (item.SQFT && !item.SQMT) return "SQFT";
-  if (item.SQMT && !item.SQFT) return "SQMT";
-
-  // Alias normalization
-  for (const [key, aliases] of Object.entries(uomAliases)) {
-    if (aliases.includes(raw)) return key;
-  }
-
-  // fallback
-  return "NOS";
+  return raw || "NOS";
 }
 
+// function normalizeUOM(item) {
+//   let uom = (item.UOM || "").toString().trim().toUpperCase();
+
+//   // PRIORITY: SQFT over SQMT if both exist
+//   if (item.SQFT && item.SQMT) return "SQFT";
+
+//   // If only SQFT present
+//   if (item.SQFT && !item.SQMT) return "SQFT";
+
+//   // If only SQMT present
+//   if (item.SQMT && !item.SQFT) return "SQMT";
+
+//   // Validate UOM if provided
+//   if (allowedUOM.includes(uom)) return uom;
+
+//   // Default
+//   return "NOS";
+// }
 
 
 export function loadMastersPreview() {
 
   const allowedUOM = ["CUM","SQFT","SQMT","RFT","RMT","NOS","KG","METRIC TON","CFT"];
-
-  function normalizeUOM(item) {
-    let uom = (item.UOM || "").toString().trim().toUpperCase();
-
-    // PRIORITY: SQFT over SQMT if both exist
-    if (item.SQFT && item.SQMT) return "SQFT";
-
-    // If only SQFT present
-    if (item.SQFT && !item.SQMT) return "SQFT";
-
-    // If only SQMT present
-    if (item.SQMT && !item.SQFT) return "SQMT";
-
-    // Validate UOM if provided
-    if (allowedUOM.includes(uom)) return uom;
-
-    // Default
-    return "NOS";
-  }
-
+  
+  
   return {
     basic: loadJson("Basic_Rate_Master.json").map(i => ({
       CODE: i.CODE,
@@ -145,6 +144,8 @@ export function loadMastersPreview() {
       OVERALL: i.OVERALL,
       CLASS: i.CLASS
     }))
+
+    
   };
 }
 
