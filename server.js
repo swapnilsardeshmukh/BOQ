@@ -335,7 +335,8 @@ and Material_Master.json.
       model: "gpt-5.1",
       messages,
       max_completion_tokens: 3000,
-      temperature: 0.0
+      temperature: 0.0,
+      response_format: { type: "json_object" }
     });
 
     let text = response.choices?.[0]?.message?.content;
