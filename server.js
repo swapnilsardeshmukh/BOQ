@@ -278,6 +278,7 @@ and Material_Master.json.
   exact product category (e.g., “corner guard”, “skirting trim”, “aluminium profile”). Meaning should NOT be altered or assumed. If unsure whether material is needed,
    DO NOT include it.
   10 . Recheck Point No 3.(Dont take materials from "Material_Plus_Labour_Master.json" or "Misc_Parameter_Master.json" or "Labour_Master.json") 
+  11. Material Validation for Material Rules : Recheck material list should be from Basic Or Material Master Only
   =============================== MISC RULES =============================== 
   1. Determine MATERIAL CLASS dominance by highest count. 
   2. Select misc ONLY for dominant class. 
