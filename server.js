@@ -278,10 +278,17 @@ and Material_Master.json.
   exact product category (e.g., “corner guard”, “skirting trim”, “aluminium profile”). Meaning should NOT be altered or assumed. If unsure whether material is needed,
    DO NOT include it.
   10 . Recheck Point No 3.(Dont take materials from "Material_Plus_Labour_Master.json" or "Misc_Parameter_Master.json" or "Labour_Master.json") 
-  11. Material Validation for Material Rules : Recheck material list should be from Basic Or Material Master Only
-  12.Validate Items . Item should be only from (Material_master.json) OR  Basic_Rate_Master.json) For Material List
-  
-  =============================== MISC RULES =============================== 
+ 11.  Validate Items .Item should be only from (Material_master.json) OR  Basic_Rate_Master.json) For Material List
+ 12. For the "material" array, you are STRICTLY FORBIDDEN from selecting any item from:
+"Labour_Master.json" or "Material_Plus_Labour_Master.json" or "Misc_Parameter_Master.json".
+13 . Detect the fixing method from the prompt and restrict allowed materials:
+    - If prompt clearly specifies CM (cement mortar) or cement slurry / paste for tile laying, 
+      then DO NOT include Flex Adhesive, Tile Adhesive, Chemical Adhesive, or similar items.
+    - Adhesive materials should ONLY be included when the prompt explicitly states tile adhesive, 
+      flex adhesive, chemical adhesive, tile-on-tile, thin-bed fixing, or equivalent terms.
+
+If any item belongs to these masters, immediately reject it and DO NOT include it in the material list. 
+ =============================== MISC RULES =============================== 
   1. Determine MATERIAL CLASS dominance by highest count. 
   2. Select misc ONLY for dominant class. 
   3. If no class detected → default = CIVIL. 
