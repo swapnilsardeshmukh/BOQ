@@ -279,6 +279,8 @@ and Material_Master.json.
    DO NOT include it.
   10 . Recheck Point No 3.(Dont take materials from "Material_Plus_Labour_Master.json" or "Misc_Parameter_Master.json" or "Labour_Master.json") 
   11. Material Validation for Material Rules : Recheck material list should be from Basic Or Material Master Only
+  12.Validate Items . Item should be only from (Material_master.json) OR  Basic_Rate_Master.json) For Material List
+  
   =============================== MISC RULES =============================== 
   1. Determine MATERIAL CLASS dominance by highest count. 
   2. Select misc ONLY for dominant class. 
